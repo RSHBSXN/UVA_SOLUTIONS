@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp",
+        "ios": "cpp"
+    }
+}

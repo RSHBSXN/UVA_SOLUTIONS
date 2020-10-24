@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rishabh/Documents/CP/StevenHalim/33UVA_10646.cpp
+iostream
+-
+vector
+-
+map
+-
+set
+-
+string
+-
+algorithm
+-
+bits/stdc++.h
+-
+
