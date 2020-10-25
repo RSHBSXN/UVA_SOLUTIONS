@@ -77,27 +77,27 @@ include CMakeFiles/run.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/run.dir/flags.make
 
-CMakeFiles/run.dir/34UVA_12247.cpp.o: CMakeFiles/run.dir/flags.make
-CMakeFiles/run.dir/34UVA_12247.cpp.o: ../34UVA_12247.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/rishabh/Documents/CP/StevenHalim/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/run.dir/34UVA_12247.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run.dir/34UVA_12247.cpp.o -c /Users/rishabh/Documents/CP/StevenHalim/34UVA_12247.cpp
+CMakeFiles/run.dir/35UVA_255.cpp.o: CMakeFiles/run.dir/flags.make
+CMakeFiles/run.dir/35UVA_255.cpp.o: ../35UVA_255.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/rishabh/Documents/CP/StevenHalim/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/run.dir/35UVA_255.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run.dir/35UVA_255.cpp.o -c /Users/rishabh/Documents/CP/StevenHalim/35UVA_255.cpp
 
-CMakeFiles/run.dir/34UVA_12247.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/34UVA_12247.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rishabh/Documents/CP/StevenHalim/34UVA_12247.cpp > CMakeFiles/run.dir/34UVA_12247.cpp.i
+CMakeFiles/run.dir/35UVA_255.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/35UVA_255.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rishabh/Documents/CP/StevenHalim/35UVA_255.cpp > CMakeFiles/run.dir/35UVA_255.cpp.i
 
-CMakeFiles/run.dir/34UVA_12247.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/34UVA_12247.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rishabh/Documents/CP/StevenHalim/34UVA_12247.cpp -o CMakeFiles/run.dir/34UVA_12247.cpp.s
+CMakeFiles/run.dir/35UVA_255.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/35UVA_255.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rishabh/Documents/CP/StevenHalim/35UVA_255.cpp -o CMakeFiles/run.dir/35UVA_255.cpp.s
 
 # Object files for target run
 run_OBJECTS = \
-"CMakeFiles/run.dir/34UVA_12247.cpp.o"
+"CMakeFiles/run.dir/35UVA_255.cpp.o"
 
 # External object files for target run
 run_EXTERNAL_OBJECTS =
 
-run: CMakeFiles/run.dir/34UVA_12247.cpp.o
+run: CMakeFiles/run.dir/35UVA_255.cpp.o
 run: CMakeFiles/run.dir/build.make
 run: CMakeFiles/run.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/rishabh/Documents/CP/StevenHalim/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable run"

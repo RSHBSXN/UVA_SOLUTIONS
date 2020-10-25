@@ -143,32 +143,32 @@ run/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/build
 .PHONY : run/fast
 
-34UVA_12247.o: 34UVA_12247.cpp.o
+35UVA_255.o: 35UVA_255.cpp.o
 
-.PHONY : 34UVA_12247.o
+.PHONY : 35UVA_255.o
 
 # target to build an object file
-34UVA_12247.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/34UVA_12247.cpp.o
-.PHONY : 34UVA_12247.cpp.o
+35UVA_255.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/35UVA_255.cpp.o
+.PHONY : 35UVA_255.cpp.o
 
-34UVA_12247.i: 34UVA_12247.cpp.i
+35UVA_255.i: 35UVA_255.cpp.i
 
-.PHONY : 34UVA_12247.i
+.PHONY : 35UVA_255.i
 
 # target to preprocess a source file
-34UVA_12247.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/34UVA_12247.cpp.i
-.PHONY : 34UVA_12247.cpp.i
+35UVA_255.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/35UVA_255.cpp.i
+.PHONY : 35UVA_255.cpp.i
 
-34UVA_12247.s: 34UVA_12247.cpp.s
+35UVA_255.s: 35UVA_255.cpp.s
 
-.PHONY : 34UVA_12247.s
+.PHONY : 35UVA_255.s
 
 # target to generate assembly for a file
-34UVA_12247.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/34UVA_12247.cpp.s
-.PHONY : 34UVA_12247.cpp.s
+35UVA_255.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/35UVA_255.cpp.s
+.PHONY : 35UVA_255.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... run"
-	@echo "... 34UVA_12247.o"
-	@echo "... 34UVA_12247.i"
-	@echo "... 34UVA_12247.s"
+	@echo "... 35UVA_255.o"
+	@echo "... 35UVA_255.i"
+	@echo "... 35UVA_255.s"
 .PHONY : help
 
 
