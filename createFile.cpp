@@ -20,7 +20,7 @@ int main(int argc,char **args){
     count++;
     fin << count;
     fin.close();
-    fin.open("../template.txt",ios::in);
+    fin.open("./template.txt", ios::in);
     fstream fout(fileName,ios::out);
     string scan;
     while(getline(fin,scan)){
